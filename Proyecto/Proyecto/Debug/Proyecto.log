@@ -1,0 +1,17 @@
+﻿  Final.cpp
+C:\Users\Usuario\source\repos\Proyecto\Proyecto\include\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
+C:\Users\Usuario\source\repos\Proyecto\Proyecto\include\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Proyecto\Proyecto\include\modelAnim.h(520,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Proyecto\Proyecto\Final.cpp(541,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Proyecto\Proyecto\Final.cpp(542,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Proyecto\Proyecto\Final.cpp(546,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Proyecto\Proyecto\Final.cpp(547,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Proyecto\Proyecto\Final.cpp(549,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Proyecto\Proyecto\Final.cpp(550,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Proyecto\Proyecto\Final.cpp(558,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+glfw3.lib(input.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(input.obj)' o en 'C:\Users\Usuario\source\repos\Proyecto\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(monitor.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(monitor.obj)' o en 'C:\Users\Usuario\source\repos\Proyecto\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(window.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(window.obj)' o en 'C:\Users\Usuario\source\repos\Proyecto\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_joystick.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_joystick.obj)' o en 'C:\Users\Usuario\source\repos\Proyecto\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+glfw3.lib(win32_window.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(win32_window.obj)' o en 'C:\Users\Usuario\source\repos\Proyecto\Debug\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  Proyecto.vcxproj -> C:\Users\Usuario\source\repos\Proyecto\Debug\Proyecto.exe
