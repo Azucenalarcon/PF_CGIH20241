@@ -1,0 +1,19 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 11.11.2023 20:45:14
+
+newmtl CH_NPC_MOB_Elephant_A01_MI_GRN
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5200
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd C:\Users\Usuario\Downloads\elephant-animation-idle\source\Elephant Idle\Elephant Idle.fbm\Elephant Base.tga
+	map_Tr C:\Users\Usuario\Downloads\elephant-animation-idle\source\Elephant Idle\Elephant Idle.fbm\Elephant Alpha.tga
+	norm C:\Users\Usuario\Downloads\elephant-animation-idle\source\Elephant Idle\Elephant Idle.fbm\Elephant Normal.tga
