@@ -1,0 +1,19 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 12.11.2023 00:44:07
+
+newmtl CH_NPC_MOB_GEagle_A02_MI_IRS
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Tr 0.0000
+	d 1.0000
+	Tf 0.0000 0.0000 0.0000
+	Pr 0.0000
+	Pm 0.0000
+	Pc 0.0000
+	Pcr 0.0000
+	Ni 1.5200
+	Ke 0.0000 0.0000 0.0000
+	illum 2
+	map_Kd TextureBase.tga
+	map_Tr TextureAlpha.tga
+	norm TextureNormal.tga
